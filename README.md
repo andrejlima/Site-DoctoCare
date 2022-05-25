@@ -2,6 +2,5 @@
 
 Projeto aprendido no NLW da Rocketseat
 
-<a href="https://andrejlima.github.io/NLW-8-Edicao/" target="_blank">Acesse o site hospedado no GitHub</a>
-
+[Acesse o site hospedado no GitHub](https://andrejlima.github.io/Site-DoctoCare/)
 **Projeto em andamento**
